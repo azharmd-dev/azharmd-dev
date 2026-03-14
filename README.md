@@ -6,12 +6,6 @@ Currently working as a **DevOps Support Engineer**, supporting cloud infrastruct
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake animation](https://github.com/azharmd-dev/azharmd-dev/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 👨‍💻 About Me
 
 - 💼 Currently working as **DevOps Support Engineer**
@@ -107,6 +101,12 @@ https://github.com/azharmd-dev/catalogue
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azharmd-dev&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/azharmd-dev/azharmd-dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
