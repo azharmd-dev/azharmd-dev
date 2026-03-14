@@ -1,16 +1,120 @@
-## Hi there 👋
+# Hi 👋 I'm Azharuddin
 
-<!--
-**azharmd-dev/azharmd-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **DevOps Support Engineer** | ☁️ AWS | ⚙️ CI/CD | 🐳 Docker | ☸️ Kubernetes  
 
-Here are some ideas to get you started:
+Currently working as a **DevOps Support Engineer**, supporting cloud infrastructure, CI/CD pipelines, and deployments while continuously improving automation and reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/azharmd-dev/azharmd-dev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Currently working as **DevOps Support Engineer**
+- ☁️ Supporting **AWS cloud infrastructure**
+- ⚙️ Managing **CI/CD pipelines**
+- 🐳 Working with **Docker containerization**
+- ☸️ Learning and implementing **Kubernetes**
+- 🔐 Implementing **security scanning (Trivy)**
+- 📊 Using **SonarQube for code quality**
+- 🚀 Passionate about **automation, cloud engineering, and DevOps**
+
+---
+
+## 🛠 Tech Stack
+
+### ☁️ Cloud
+- AWS (EC2, S3, IAM, VPC, RDS, Route53, ECR, EKS)
+
+### ⚙️ DevOps
+- Jenkins
+- GitHub Actions
+- Terraform
+- Ansible
+
+### 🐳 Containers & Orchestration
+- Docker
+- Kubernetes
+
+### 🔍 Security & Quality
+- SonarQube
+- Trivy
+
+### 💻 Tools
+- Linux
+- Git
+- Bash
+- Node.js
+- PostgreSQL
+
+---
+
+# 🚀 DevOps Projects
+
+## ☁️ Robomart Cloud Infrastructure (Terraform + AWS EKS)
+
+End-to-end **cloud infrastructure provisioning project** built using **Terraform and AWS EKS**.
+
+### Key Features
+
+- Infrastructure provisioning using **Terraform**
+- AWS **EKS cluster setup**
+- VPC, Subnets, Security Groups configuration
+- IAM roles and policies
+- Amazon **ECR integration**
+- Kubernetes-ready cloud environment
+
+🔗 Repository  
+https://github.com/azharmd-dev/robomart-tf-eks
+
+---
+
+## 📦 Catalogue Microservice (CI/CD DevOps Pipeline)
+
+A **Node.js microservice** demonstrating a complete **DevOps CI/CD pipeline**.
+
+### Key Features
+
+- Docker containerization
+- Jenkins pipeline
+- GitHub Actions CI/CD workflow
+- SonarQube code analysis
+- Trivy security scanning
+- AWS ECR image repository
+- Kubernetes-ready deployment
+
+🔗 Repository  
+https://github.com/azharmd-dev/catalogue
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azharmd-dev&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azharmd-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azharmd-dev&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/azharmd-dev
+- LinkedIn: https://www.linkedin.com/in/azharmdh/
+
+---
+
+⭐ Always learning and building **Cloud & DevOps projects**
