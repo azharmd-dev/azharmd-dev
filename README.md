@@ -88,13 +88,13 @@ https://github.com/azharmd-dev/catalogue
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azharmd-dev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-azharmd-devs-projects.vercel.app/api?username=azharmd-dev&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azharmd-dev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-azharmd-devs-projects.vercel.app/api/top-langs/?username=azharmd-dev&layout=compact&theme=tokyonight)
 
 ---
 
