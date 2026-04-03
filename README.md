@@ -110,15 +110,8 @@ https://github.com/azharmd-dev/catalogue
 
 ## 📫 Connect With Me
 
-<p>
-  <img src="https://cdn.simpleicons.org/gmail" width="20"/> 
-  <a href="mailto:azharmd0794@gmail.com">azharmd0794@gmail.com</a>
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/linkedin" width="20"/> 
-  <a href="https://www.linkedin.com/in/azharmdh/">linkedin.com/in/azharmdh</a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharmd0794@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azharmdh/)
 
 ---
 
