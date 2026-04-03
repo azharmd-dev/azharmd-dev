@@ -67,7 +67,7 @@ https://github.com/azharmd-dev/robomart-tf-eks
 
 ---
 
-## 📦 Catalogue Microservice (CI/CD DevOps Pipeline)
+## 🗃️ Catalogue Microservice (CI/CD DevOps Pipeline)
 
 A **Node.js microservice** demonstrating a complete **DevOps CI/CD pipeline**.
 
