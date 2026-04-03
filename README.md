@@ -87,13 +87,11 @@ https://github.com/azharmd-dev/catalogue
 ---
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azharmd-dev&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📈 Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azharmd-dev&layout=compact&theme=tokyonight)
 
 ---
@@ -112,8 +110,15 @@ https://github.com/azharmd-dev/catalogue
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/azharmd-dev
-- LinkedIn: https://www.linkedin.com/in/azharmdh/
+<p>
+  <img src="https://cdn.simpleicons.org/gmail" width="20"/> 
+  <a href="mailto:azharmd0794@gmail.com">azharmd0794@gmail.com</a>
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/linkedin" width="20"/> 
+  <a href="https://www.linkedin.com/in/azharmdh/">linkedin.com/in/azharmdh</a>
+</p>
 
 ---
 
