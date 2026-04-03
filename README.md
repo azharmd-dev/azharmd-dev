@@ -88,13 +88,7 @@ https://github.com/azharmd-dev/catalogue
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azharmd-dev&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=azharmd-dev&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azharmd-dev&layout=compact&theme=tokyonight)
 
 ---
 
