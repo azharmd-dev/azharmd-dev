@@ -115,4 +115,16 @@ https://github.com/azharmd-dev/catalogue
 
 ---
 
+## 📫 Connect With Me
+
+<a href="mailto:azharmd0794@gmail.com" title="azharmd0794@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/azharmdh/" title="https://www.linkedin.com/in/azharmdh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
 ⭐ Always learning and building **Cloud & DevOps projects**
