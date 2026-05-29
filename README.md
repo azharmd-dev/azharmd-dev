@@ -1,21 +1,22 @@
 # Hi 👋 I'm Azharuddin
 
-💼 **DevOps Support Engineer** | ☁️ AWS | ⚙️ CI/CD | 🐳 Docker | ☸️ Kubernetes  
+💼 **Technical Support Engineer** | 🖥️ Linux | 🐳 Docker | ☸️ Kubernetes | 📊 Prometheus & Grafana
 
-Currently working as a **DevOps Support Engineer**, supporting cloud infrastructure, CI/CD pipelines, and deployments while continuously improving automation and reliability.
+Currently working as a **Technical Support Engineer**, providing end-to-end enterprise support — handling incidents, resolving application and system-level issues, and collaborating with DevOps and engineering teams to keep production environments stable and reliable.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as **DevOps Support Engineer**
-- ☁️ Supporting **AWS cloud infrastructure**
-- ⚙️ Managing **CI/CD pipelines**
-- 🐳 Working with **Docker containerization**
-- ☸️ Learning and implementing **Kubernetes**
-- 🔐 Implementing **security scanning (Trivy)**
-- 📊 Using **SonarQube for code quality**
-- 🚀 Passionate about **automation, cloud engineering, and DevOps**
+- 💼 Currently working as **Technical Support Engineer**
+- 🎫 Managing **50+ support tickets/week** with strict **SLA compliance**
+- 🚨 Handling **critical incidents** via **Jira & ServiceNow**
+- 🖥️ Administering **Linux environments** for log analysis and RCA
+- 🐳 Supporting **Docker & Kubernetes** based application environments
+- 📊 Monitoring system health using **Prometheus & Grafana**
+- 📚 Maintaining **knowledge base** of 50+ resolution guides
+- 🌱 Enthusiastic about learning **DevOps, Cloud Infrastructure & Automation**
+- 🚀 Actively looking for **DevOps Engineer / Cloud Engineer / SRE** opportunities
 
 ---
 
